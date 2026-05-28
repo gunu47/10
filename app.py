@@ -1,4 +1,4 @@
 import streamlit as st
 st.title('나는 짱이다')
 st.write('바이브 코딩 재미있다')
-st.write('류창 병신')
+st.big write('류창 병신')
